@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "277529555960",
+    "firebase_url": "https://mukjido.firebaseio.com",
+    "project_id": "mukjido",
+    "storage_bucket": "mukjido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277529555960:android:33174479ef5ca52c",
+        "android_client_info": {
+          "package_name": "com.example.kimminho.mukjido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277529555960-cnhkct6lvhees0u3m1vaj58fsc1tdn7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kimminho.mukjido",
+            "certificate_hash": "9a77e6c21e9300a72cfe8a6c640d4717f7e4d5ba"
+          }
+        },
+        {
+          "client_id": "277529555960-drvkk88iaql8jrp0melfgv00n6a6t8n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhzyW8PupC5GnRJwTVWiYBvqkoHrIYuIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277529555960-drvkk88iaql8jrp0melfgv00n6a6t8n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
